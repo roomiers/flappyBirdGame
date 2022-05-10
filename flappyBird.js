@@ -24,7 +24,7 @@ var bY = 150;
 var gravity = 1.5;
 var score = 0;
 
-// audio files
+// audio files - 2
 var fly = new Audio();
 var scor = new Audio();
 
